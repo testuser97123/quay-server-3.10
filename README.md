@@ -47,11 +47,10 @@ You have installed the Podman or Docker CLI.
 
 ### Procedure
 
-On the first two systems, q01 and q02, install the HAProxy load balancer and the PostgreSQL database. This configures HAProxy as the access point and load balancer for the following services running on other systems:
+On the first system q01 then install the HAProxy load balancer and the PostgreSQL database. This configures HAProxy as the access point and load balancer for the following services running on other systems:
 
-- Red Hat Quay (ports 80 and 443 on B systems)
-- Redis (port 6379 on B systems)
-- RADOS (port 7480 on C systems)
+- Red Hat Quay (ports 80 and 443)
+- Redis (port 6379 )
 
 Open all HAProxy ports in SELinux and selected HAProxy ports in the firewall:
 
