@@ -1,6 +1,5 @@
 # quay-server-3.10
 Private Image Registry Server using RedHat Quay 3.10
-# Red Hat Quay 3.10 Setup (Node Based)
 
 ### RED HAT QUAY FEATURES    
 
