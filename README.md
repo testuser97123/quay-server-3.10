@@ -1,4 +1,4 @@
-# quay-server-3.10
+# REDHAT QUAY SERVER 3.10
 Private Image Registry Server using RedHat Quay 3.10
 
 ### RED HAT QUAY FEATURES    
